@@ -1,4 +1,4 @@
-# Adobe - INTER IIT MidPrep
+# Video Frame Retriever equipped InstructBLIP Model
 Repository containing the solution for the Adobe Behaviour Simulation and Content Simulation challenge.
 
 
